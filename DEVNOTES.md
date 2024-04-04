@@ -4,5 +4,11 @@
 
 Stoppage Time: 
 
-00:10:30
+00:16:30
 
+
+
+In kaboomCtx.js, 
+```js
+  debug: false, // set to false once ready for production
+```
